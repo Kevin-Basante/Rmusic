@@ -2,7 +2,7 @@
 
 Workshop for the **Data Structures** course: a music player built with **TypeScript** where every playlist is a **doubly linked list** of songs.
 
-- **Live demo:** _add the Vercel URL here_
+- **Live demo:** https://rmusic-iota.vercel.app/
 - **Repository:** https://github.com/Kevin-Basante/Rmusic
 
 ## Features
